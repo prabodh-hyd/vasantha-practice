@@ -35,6 +35,7 @@
     float: left;   
     position:absolute;
     font-size: 18px;
+    margin-right:20px;
   }
   .nav > .nav-links > button{
     background-color: red;color:white;
